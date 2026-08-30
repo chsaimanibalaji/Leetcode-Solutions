@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -40,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
