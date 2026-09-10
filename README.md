@@ -28,6 +28,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -121,4 +124,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
