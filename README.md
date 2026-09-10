@@ -55,6 +55,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -150,4 +152,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
