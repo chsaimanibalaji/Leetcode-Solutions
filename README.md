@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
@@ -56,12 +58,14 @@
 | [0189-rotate-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
@@ -84,6 +88,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -166,4 +171,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
