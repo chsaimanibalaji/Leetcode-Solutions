@@ -23,6 +23,7 @@
 | [0739-daily-temperatures](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [3701-compute-alternating-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0258-add-digits](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [3701-compute-alternating-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
