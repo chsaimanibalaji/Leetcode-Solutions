@@ -100,6 +100,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0680-valid-palindrome-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -195,4 +197,5 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
