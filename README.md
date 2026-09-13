@@ -26,6 +26,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -128,6 +129,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -148,6 +150,7 @@
 | [0258-add-digits](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Monotonic Stack
