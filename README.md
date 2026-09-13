@@ -249,6 +249,7 @@
 |  |
 | ------- |
 | [1693-daily-leads-and-partners](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
