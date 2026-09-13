@@ -27,6 +27,7 @@
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2418-sort-the-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -60,6 +61,7 @@
 | [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2418-sort-the-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## String
@@ -132,6 +135,7 @@
 | [0680-valid-palindrome-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2418-sort-the-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3894-traffic-signal-color](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
