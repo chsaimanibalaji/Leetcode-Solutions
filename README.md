@@ -73,6 +73,7 @@
 | [0258-add-digits](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
