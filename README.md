@@ -23,6 +23,7 @@
 | [0739-daily-temperatures](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2574-left-and-right-sum-differences](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -55,6 +56,7 @@
 | [0088-merge-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
@@ -212,4 +215,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
