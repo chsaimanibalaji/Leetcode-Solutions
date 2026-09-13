@@ -79,6 +79,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -133,6 +134,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3894-traffic-signal-color](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0735-asteroid-collision](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Monotonic Stack
 |  |
