@@ -249,6 +249,7 @@
 |  |
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
+| [1148-article-views-i](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
