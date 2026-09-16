@@ -15,6 +15,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@
 | [0189-rotate-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -64,6 +66,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2418-sort-the-people) |
@@ -98,6 +101,7 @@
 | [0035-search-insert-position](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -124,6 +128,7 @@
 | [0202-happy-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
