@@ -104,6 +104,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -271,4 +272,8 @@
 | [1741-find-total-time-spent-by-each-employee](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
