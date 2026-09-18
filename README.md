@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -240,6 +241,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Queue
