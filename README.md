@@ -163,6 +163,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3894-traffic-signal-color](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Stack
@@ -186,6 +187,7 @@
 | [0682-baseball-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
