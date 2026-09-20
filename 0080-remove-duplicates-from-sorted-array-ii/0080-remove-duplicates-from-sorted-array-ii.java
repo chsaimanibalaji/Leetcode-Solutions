@@ -6,9 +6,6 @@ class Solution {
     if(nums.length==1){
         return 1;
     }
-    if(nums.length==2){
-        return 2;
-    }
     while(i<nums.length && j<nums.length){
         if(i<j && nums[i]==nums[j]){
             buffer++;
