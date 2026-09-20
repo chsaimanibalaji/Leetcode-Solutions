@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -46,6 +47,7 @@
 | [0011-container-with-most-water](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0202-happy-number) |
