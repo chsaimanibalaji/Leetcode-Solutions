@@ -271,6 +271,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 | [1068-product-sales-analysis-i](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
