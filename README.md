@@ -28,6 +28,7 @@
 | [0875-koko-eating-bananas](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -117,6 +118,7 @@
 | [0704-binary-search](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
