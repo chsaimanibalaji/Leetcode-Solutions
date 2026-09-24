@@ -41,6 +41,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -99,6 +100,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
