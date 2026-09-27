@@ -159,6 +159,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -177,6 +178,7 @@
 | [0680-valid-palindrome-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2418-sort-the-people) |
