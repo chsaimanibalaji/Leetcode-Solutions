@@ -36,6 +36,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1584-min-cost-to-connect-all-points](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1672-richest-customer-wealth](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -340,4 +341,28 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
