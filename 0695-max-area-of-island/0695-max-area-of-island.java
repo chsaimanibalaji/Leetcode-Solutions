@@ -5,10 +5,10 @@ class Solution {
         q.offer(new int[]{m,n});
         visited[m][n]=true;
         int counter=1;
+        int[] dr={0,0,1,-1};
+        int[] dc={1,-1,0,0};
         while(!q.isEmpty()){
             int[] cur=q.poll();
-            int[] dr={0,0,1,-1};
-            int[] dc={1,-1,0,0};
             for(int k=0;k<4;k++){
                 int nr=cur[0]+dr[k];
                 int nc=cur[1]+dc[k];
