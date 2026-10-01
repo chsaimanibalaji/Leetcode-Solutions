@@ -27,6 +27,7 @@
 | [0410-split-array-largest-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
@@ -343,6 +345,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -353,6 +356,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
@@ -378,4 +382,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
