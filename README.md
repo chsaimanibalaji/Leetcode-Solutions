@@ -35,6 +35,7 @@
 | [0875-koko-eating-bananas](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -305,6 +306,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
@@ -383,4 +385,5 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
