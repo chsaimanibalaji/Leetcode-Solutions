@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -276,6 +278,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
