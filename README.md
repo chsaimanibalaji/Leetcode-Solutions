@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -294,6 +295,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -405,4 +407,8 @@
 | [0226-invert-binary-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
