@@ -187,6 +187,7 @@
 | [0020-valid-parentheses](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0257-binary-tree-paths](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -362,6 +363,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -379,6 +381,7 @@
 | [0200-number-of-islands](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
@@ -395,6 +398,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -442,6 +446,7 @@
 | [0040-combination-sum-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/chsaimanibalaji/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## DP on Trees
 |  |
 | ------- |
