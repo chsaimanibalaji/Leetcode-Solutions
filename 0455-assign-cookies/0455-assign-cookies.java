@@ -5,13 +5,13 @@
 //         int n=g.length;
 //         int m=s.length;
 //         int l=0,r=0;
-//         while(l<m && r<n){
+//         while(l<n && r<m){
 //             if(g[l]<=s[r]){
 //                 r++;
 //             }
 //             l++;
 //         }
-//         return r;
+//         return l;
 //     }
 // }
 class Solution {
